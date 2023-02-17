@@ -1,1 +1,1 @@
-# A compendium of manifest files for difference deployment objects and strategies in Kubernetes
+# A compendium of template manifest files for workload deployment in Kubernetes
